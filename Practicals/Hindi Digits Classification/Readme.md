@@ -2,8 +2,7 @@
 
 ## Dataset Download
 
-Click on this link to download the dataset:  
-*(link here)*
+Download the numerals Dataset rar file from above
 
 ---
 
