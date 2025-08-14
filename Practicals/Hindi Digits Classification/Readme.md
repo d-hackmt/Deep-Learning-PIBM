@@ -31,3 +31,15 @@ this is a **Hindi/Devanagari digits** dataset.
 
 2. **Write the neural network** entirely on your own.  
    - **AI is NOT allowed** for writing the neural network. **(15 marks)**
+  
+--- 
+
+## Submission
+
+Upload your ipynb files onto this link below : 
+
+https://drive.google.com/drive/folders/1QnydOD3auSJLC8r8wNwjbZXvYl5V13Ki?usp=sharing
+
+Naming convection will be 
+
+Rollno_name.ipynb
