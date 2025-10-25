@@ -56,6 +56,10 @@ It’s all about bringing the power of ML to **the edge** — making devices sma
 - Raspberry Pi Pico  
 - ESP32
 
+
+<img width="1352" height="952" alt="image" src="https://github.com/user-attachments/assets/5a093367-4210-4985-907e-d767f695e428" />
+
+
 ---
 
 ### 📘 Learn More
