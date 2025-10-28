@@ -78,27 +78,6 @@ You can pick 1-2 cases for your students to read/discuss:
 - Regulation → helps enforce fairness and bias-mitigation at a larger scale and ensures accountability.  
 - Without all three, we risk building AI that works technically but harms socially or legally.  
 
----
-
-## Lecture Flow Suggestion (for ~1–1.5 hours)  
-1. Introduction: What is AI ethics (definition, need)  
-2. Why it’s important (with examples of harms if missing)  
-3. Bias in AI: definition, sources, simple example, group exercise  
-4. Fairness: What it means, challenges (e.g., treating everyone equally vs equitably), discussion  
-5. Regulation: What it is, why needed, example of EU AI Act, discussion on how this affects India/other countries  
-6. Case study review: Break students into pairs to pick a case, answer guided questions  
-7. Wrap-up: Key take-aways, open questions for students to think of research topics or short projects  
-
----
-
-## Suggestions for Student Activities / Mini-Research Projects  
-- Each student-pair picks an AI application (e.g., loan approval, hiring, medical diagnosis, facial recognition) and investigates:  
-  - What data is used? Could there be bias?  
-  - What fairness issues might arise?  
-  - Are there regulations in India for that application?  
-  - How could the system be made more ethical (bias mitigation, fairness checks, transparency)?  
-- Write a short report: literature review (what is known), gap (what’s missing), methodology (how you’d check bias/fairness), expected result/conclusion.  
-- Present a mini-case in class.
 
 ---
 
@@ -148,8 +127,7 @@ You can pick 1-2 cases for your students to read/discuss:
 ## Summary & Classroom Use  
 - These scenarios show different ethical dimensions: bias, fairness, transparency, accountability, public-service impact.  
 - They illustrate why AI ethics isn’t just theoretical—it has real consequences.  
-- Possible class activity: Pick one scenario, identify: what went wrong? Which ethical principle was violated? How could it have been prevented?
+- Pick one scenario, identify: what went wrong? Which ethical principle was violated? How could it have been prevented?
 
 ---
 
-If you like, I can pull together **8–10 more case studies** (with links and brief summaries) so you have a rich list of real-world examples for your students.  
